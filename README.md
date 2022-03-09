@@ -11,5 +11,4 @@ To run:
 
 Install NodeJS & NPM
 
-`npm install
-npm start`
+`npm install && npm start`
