@@ -4,8 +4,8 @@ Get your api keys from:
 
 Create and add keys to .env file placed in root of directory
 
-REACT_APP_ID=xxxxxx
-REACT_APP_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+REACT_APP_ID= xxxxxx
+REACT_APP_KEY= xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 To run: 
 
